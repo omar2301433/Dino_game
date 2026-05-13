@@ -53,6 +53,7 @@ git clone https://github.com/omar2301433/dino_game.git
 cd Dino_game
 
 5. Create Virtual Environment (Optional)
+   
 ##Windows
 
 python -m venv venv
